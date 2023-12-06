@@ -1,0 +1,17 @@
+{
+	id: "eaa8f093-acaa-469b-b9d0-1ed349f44a37"
+	type: "player"
+	player_name: "Jockyyyy"
+	ranks: {
+		eaa8f093-acaa-469b-b9d0-1ed349f44a37: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Jockyyyy"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF72"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

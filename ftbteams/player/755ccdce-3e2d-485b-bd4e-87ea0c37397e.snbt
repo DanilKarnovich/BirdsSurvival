@@ -1,0 +1,17 @@
+{
+	id: "755ccdce-3e2d-485b-bd4e-87ea0c37397e"
+	type: "player"
+	player_name: "TheOldSailor"
+	ranks: {
+		755ccdce-3e2d-485b-bd4e-87ea0c37397e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TheOldSailor"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59F8FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "b53e4dde-5272-3be8-8f70-4d3367cff2ed"
+	type: "player"
+	player_name: "TheArti47"
+	ranks: {
+		b53e4dde-5272-3be8-8f70-4d3367cff2ed: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TheArti47"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5967FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
