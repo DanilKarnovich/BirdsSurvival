@@ -2,9 +2,7 @@
 	id: "755ccdce-3e2d-485b-bd4e-87ea0c37397e"
 	type: "player"
 	player_name: "TheOldSailor"
-	ranks: {
-		755ccdce-3e2d-485b-bd4e-87ea0c37397e: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "TheOldSailor"
 		"ftbteams:description": ""

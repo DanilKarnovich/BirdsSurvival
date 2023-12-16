@@ -1,0 +1,17 @@
+{
+	id: "eb3a5516-1924-35d8-a1d8-d5e23d84801d"
+	type: "player"
+	player_name: "CadetCelery6616"
+	ranks: {
+		eb3a5516-1924-35d8-a1d8-d5e23d84801d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "CadetCelery6616"
+		"ftbteams:description": ""
+		"ftbteams:color": "#AAFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

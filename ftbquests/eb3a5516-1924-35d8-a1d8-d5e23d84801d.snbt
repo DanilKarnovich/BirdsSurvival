@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "eb3a5516192435d8a1d8d5e23d84801d"
+	name: "CadetCelery6616#eb3a5516"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		7B701D980200A661: 1
+	}
+	started: {
+		7539C31213D86E55: 1702701053358L
+		0000000000000001: 1702701053358L
+		7B701D980200A661: 1702701053358L
+		1DD302BB650057E3: 1702701053358L
+	}
+	completed: {
+		7B701D980200A661: 1702701053358L
+		1DD302BB650057E3: 1702701053358L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

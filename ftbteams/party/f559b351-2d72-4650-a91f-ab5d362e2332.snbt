@@ -1,0 +1,26 @@
+{
+	id: "f559b351-2d72-4650-a91f-ab5d362e2332"
+	type: "party"
+	owner: "b0d97a0c-c043-4892-9b19-ebbb30df0842"
+	ranks: {
+		21303640-350a-4a85-abf8-3881d6a8cbed: "member"
+		755ccdce-3e2d-485b-bd4e-87ea0c37397e: "officer"
+		b0d97a0c-c043-4892-9b19-ebbb30df0842: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "говнодавы"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6C59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1702702357384L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"CadetCelery6616\"}]}" }
+		{ from: "b0d97a0c-c043-4892-9b19-ebbb30df0842", date: 1702702357402L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"TheOldSailor\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1702702361840L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"TheOldSailor\"}]}" }
+		{ from: "b0d97a0c-c043-4892-9b19-ebbb30df0842", date: 1702702455583L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"TheOldSailor\"}]}" }
+		{ from: "b0d97a0c-c043-4892-9b19-ebbb30df0842", date: 1702715673433L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"valhelsia3\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1702715683162L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"valhelsia3\"}]}" }
+	]
+	extra: { }
+}

@@ -2,9 +2,7 @@
 	id: "b0d97a0c-c043-4892-9b19-ebbb30df0842"
 	type: "player"
 	player_name: "CadetCelery6616"
-	ranks: {
-		b0d97a0c-c043-4892-9b19-ebbb30df0842: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "CadetCelery6616"
 		"ftbteams:description": ""
